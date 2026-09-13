@@ -3,12 +3,16 @@
     /*border: 1px solid red;*/
 }
 
-h1 {
+.heading {
+    background-color: blueviolet;
+}
+
+.heading-home {
     background-color: lightgreen;
-    font-size: 55px;
+    font-size: 45px;
     text-align: center;
-    padding: 25px;
-    width: fit-content;
+    padding: 1px;
+    width: max-content;
     margin: auto;
 }
 
